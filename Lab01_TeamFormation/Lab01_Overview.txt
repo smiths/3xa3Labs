@@ -1,0 +1,23 @@
+Lab 01 Team Formation
+
+1. TA Introduction
+
+2. Overview of Team Formation
+	- teams of three (3)
+	- students select their own teams
+	- all team members in same tutorial section
+	- select people you will work well with and that share your goals
+
+3. Student introductions for each student (check class list)
+	- name
+	- home town
+	- what hoping to get out of 3xa3
+	- experience with the following
+		- open source development
+		- version control
+		- LaTeX
+		- make
+
+4. Students discuss, form teams, TA assists
+
+5. Project selection, as time permits - follow instructions for Lab 02

@@ -1,0 +1,31 @@
+Lab 02 Project Selection
+
+1. Review project selection criteria
+	- no specialized hardware or software
+	- instructors and TAs can compile
+	- appropriate scope
+	- will allow for automated testing
+	- using/learning programming language is feasible
+	- team knows or can learn application area
+
+2. Review lists of potential software
+	- GitHub
+	- Macports
+	- open source software
+
+3. Review examples (teams would have to show that they can compile)
+	Descartes (http://descartes.sourceforge.net/)
+	GraphCalc (http://www.graphcalc.com/_
+	GanttProject (http://sourceforge.net/projects/ganttproject/)
+
+4. Students discuss, select projects
+
+5. For each project provide the following:
+	- Project name
+	- Software purpose
+	- Software scope
+	- URL
+	- Programming language
+	- Number of lines of code
+	- License
+	- License allows public redevelopment?
