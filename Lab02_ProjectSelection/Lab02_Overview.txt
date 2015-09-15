@@ -11,7 +11,7 @@ Lab 02 Project Selection
 2. Review lists of potential software
 	- GitHub
 	- Macports
-	- open source software
+	- open source software list
 
 3. Review examples (teams would have to show that they can compile)
 	Descartes (http://descartes.sourceforge.net/)
@@ -21,11 +21,19 @@ Lab 02 Project Selection
 4. Students discuss, select projects
 
 5. For each project provide the following:
-	- Project name
+	- Team name
+	- Team members, with macids
+	- Original Project name
 	- Software purpose
 	- Software scope
-	- URL
+	- URL for original project
+	- any specialized hardware requirements?
+	- any software license required that McMaster does not own?
 	- Programming language
+	- Is programming language feasible for your team?
+	- Is the domain knowledge understandable within one term?
 	- Number of lines of code
 	- License
 	- License allows public redevelopment?
+	- Can you compile the project’s source code?
+	- What would be some test cases for the existing software?
