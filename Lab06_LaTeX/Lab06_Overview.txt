@@ -1,13 +1,36 @@
 Lab 06 LaTeX
 
+Before the Lab
+
+The following links should be posted on Avenue.  The students should be asked to
+review the material in advance of their lab.  In particular, they should watch
+the second youtube video.
+
+http://www.andy-roberts.net/writing/latex
+
+https://www.latex-project.org/
+
+Some helpful lessons on YouTube:
+
+https://www.youtube.com/watch?v=Y-kXtWdjtmw
+
+https://www.youtube.com/watch?v=SoDv0qhyysQ
+
+
+During the lab
+
 1. Welcome students to the lab.
 
 2. Explain the topic for the lab will be the type setting language LaTeX.
 
-3. Point them to a resource that will take about 20-30 minutes to review and
-complete.  (You can put this up on Avenue, along with links to additional
-resources.)  The resource should include specific exercises that they can work
-through.
+3. Point them to:
+
+http://www.andy-roberts.net/writing/latex
+
+and ask them to spend 20-30 minutes reviewing and completing the examples.  (You
+can put this up on Avenue, along with links to additional resources.)  The
+resource should include specific exercises that they can work through.  If the
+students have already done this, you can ask them to proceed to steps 5 and 6.
 
 4. Begin moving through the class asking them questions to ascertain that they
 have been participating.  Record the names of the students that are not present,
@@ -16,10 +39,11 @@ drive 3xa3 folder.  While you are doing this, the students should be working on
 the next items in this script.
 
 5. Ask them to write the problem statement in LaTeX, if they haven’t already
-done so.
+done so.  Commit the tex file and pdf file to GitLab.
 
 6. Ask them to start writing their requirements specification in LaTeX.  Remind
-them that there is an example requirements tex file on Avenue.
+them that there is an example requirements tex file on Avenue.  Commit the tex
+file and pdf file to GitLab.
 
 
 The students will either use an installed version of LaTeX on their machines, or
