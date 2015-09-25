@@ -4,23 +4,44 @@ Lab 06 LaTeX
 
 2. Explain the topic for the lab will be the type setting language LaTeX.
 
-3. Point them to a resource that will take about 20-30 minutes to review and complete.  (You can put this up on Avenue, along with links to additional resources.)  The resource should include specific exercises that they can work through.
+3. Point them to a resource that will take about 20-30 minutes to review and
+complete.  (You can put this up on Avenue, along with links to additional
+resources.)  The resource should include specific exercises that they can work
+through.
 
-4. Begin moving through the class asking them questions to ascertain that they have been participating.  Record the names of the students that are not present, or not engaged.  Please put this information in a google sheet in our google drive 3xa3 folder.  While you are doing this, the students should be working on the next items in this script.
+4. Begin moving through the class asking them questions to ascertain that they
+have been participating.  Record the names of the students that are not present,
+or not engaged.  Please put this information in a google sheet in our google
+drive 3xa3 folder.  While you are doing this, the students should be working on
+the next items in this script.
 
-5. Ask them to write the problem statement in LaTeX, if they haven’t already done so.
+5. Ask them to write the problem statement in LaTeX, if they haven’t already
+done so.
 
-6. Ask them to start writing their requirements specification in LaTeX.  Remind them that there is an example requirements tex file on Avenue.
+6. Ask them to start writing their requirements specification in LaTeX.  Remind
+them that there is an example requirements tex file on Avenue.
 
 
-The students will either use an installed version of LaTeX on their machines, or they can use ssh into mills and run it from there.
+The students will either use an installed version of LaTeX on their machines, or
+they can use ssh into mills and run it from there.
 
-If the students use their own machines, you can do your best to help them with any installation or editor issues, but do not spend much time on this.  There are too many problems that could happen for us to possibly know the solution to all of them.  Remind the students that they can use google to help them with installation issues.  They also have the option to post on Avenue to see if any of their colleagues can help.
+If the students use their own machines, you can do your best to help them with
+any installation or editor issues, but do not spend much time on this.  There
+are too many problems that could happen for us to possibly know the solution to
+all of them.  Remind the students that they can use google to help them with
+installation issues.  They also have the option to post on Avenue to see if any
+of their colleagues can help.
 
-If the students are having trouble with their local installation of LaTeX, or if they prefer, they can use mills.  To login to mills they use:
+If the students are having trouble with their local installation of LaTeX, or if
+they prefer, they can use mills.  To login to mills they use:
 
 ssh mills.cas.mcmaster.ca
 
-They can run LaTeX by typing latex followed by the file that they want to compile.  This will take a tex file and produce a dvi file.  The dvi file can be transformed to ps, and the ps file to pdf.  For most students it will actually be easier if they simply use pdflatex.  This takes a tex file and produces a pdf directly.  You run pdflatex by typing the program name at the prompt followed by the name of the tex file.
+They can run LaTeX by typing latex followed by the file that they want to
+compile.  This will take a tex file and produce a dvi file.  The dvi file can be
+transformed to ps, and the ps file to pdf.  For most students it will actually
+be easier if they simply use pdflatex.  This takes a tex file and produces a pdf
+directly.  You run pdflatex by typing the program name at the prompt followed by
+the name of the tex file.
 
 To upload and download files from mills, the students can use sftp.
